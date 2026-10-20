@@ -2,6 +2,8 @@
 
 A minimal personal AI assistant on Telegram, running on your own computer or server. Free and open source (MIT).
 
+<p align="center"><img src="docs/demo.gif" width="360" alt="Venturerize Lite chatting on Telegram"></p>
+
 > **Don't want to read this?** Open [`AI_SETUP.md`](AI_SETUP.md), copy all of it into ChatGPT, Claude or any AI chat,
 > and it will walk you through the setup step by step.
 
