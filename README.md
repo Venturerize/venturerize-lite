@@ -27,7 +27,7 @@ documents, websites and everything else are **not included**. If you need any of
 
 1. **Download**
    ```bash
-   git clone https://github.com/Aaravprabh/venturerize-lite.git
+   git clone https://github.com/Venturerize/venturerize-lite.git
    cd venturerize-lite
    ```
    (or click **Code → Download ZIP** on GitHub and unzip it)

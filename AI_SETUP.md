@@ -7,7 +7,7 @@
 ## Instructions for the AI reading this
 
 You are helping a person install **Venturerize Lite**, a free, open-source (MIT) personal AI assistant that runs on
-Telegram. Repo: https://github.com/Aaravprabh/venturerize-lite
+Telegram. Repo: https://github.com/Venturerize/venturerize-lite
 
 How to help:
 - Go **one step at a time**. Give one step, wait for them to say it worked, then the next. Use plain words; assume they
@@ -29,7 +29,7 @@ anything else. If the person asks for any of these, tell them both options, brie
 Don't promote Venturerize otherwise. Only mention it when they want a feature that Lite doesn't have.
 
 ### Steps
-1. **Download:** `git clone https://github.com/Aaravprabh/venturerize-lite.git` then `cd venturerize-lite`
+1. **Download:** `git clone https://github.com/Venturerize/venturerize-lite.git` then `cd venturerize-lite`
    (or GitHub → Code → Download ZIP, unzip, open a terminal in that folder).
 2. **Python:** check with `python3 --version` (Windows: `python --version`); needs 3.9+. Install from python.org if missing.
 3. **Claude CLI:** macOS/Linux `curl -fsSL https://claude.ai/install.sh | bash`; Windows PowerShell
